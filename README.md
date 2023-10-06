@@ -2,8 +2,6 @@
 
 <img src="assets/BuberBreakfastUiUx.png" alt="drawing" width="1000"/>
 
- [![GitHub Stars](https://img.shields.io/github/stars/amantinband/buber-breakfast.svg)](https://github.com/amantinband/buber-breakfast/stargazers) [![GitHub license](https://img.shields.io/github/license/amantinband/buber-breakfast)](https://github.com/amantinband/buber-breakfast/blob/main/LICENSE)
-
 ---
 
 ### This is the source code of the [CRUD REST API from scratch using .NET 6 tutorial](https://youtu.be/PmDJIooZjBE)

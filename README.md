@@ -14,8 +14,7 @@ Loving it? Show your support by giving this project a star!
 
 # Overview
 
-In the tutorial, we build a CRUD REST API from scratch using .NET 6.
-As you would expect, the backend system supports Creating, Reading, Updating, and Deleting breakfasts.
+We build a CRUD REST API from scratch using .NET 6. As you would expect, the backend system supports Creating, Reading, Updating, and Deleting breakfasts.
 
 # Service Architecture
 
